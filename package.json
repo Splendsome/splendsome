@@ -1,0 +1,22 @@
+{
+  "name": "splendsome",
+  "version": "0.0.0",
+  "description": "The Splendsome Framework",
+  "keywords": [
+    "splendsome",
+    "isomorphic",
+    "javascript",
+    "full stack",
+    "framework"
+  ],
+  "homepage": "https://splendso.me",
+  "repository": "https://github.com/splendsome/splendsome",
+  "bugs": "https://github.com/splendsome/splendsome/issues",
+  "license": "MIT",
+  "main": "src/splendsome.js",
+  "bin": "src/splendsome-cli.js",
+  "files": [
+    "src"
+  ],
+  "author": "J Bruni <contato@jbruni.com.br> (https://github.com/jbruni)"
+}
